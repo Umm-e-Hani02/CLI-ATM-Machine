@@ -1,5 +1,5 @@
 {
-  "name": "umm-e-hani-cli-atm-machinee",
+  "name": "umm-e-hani-cli-atm-machine",
   "version": "1.0.0",
   "description": "Simple ATM Machine using Typescript, Node.js and Inquirer",
   "main": "index.js",
